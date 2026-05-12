@@ -1,4 +1,4 @@
-# ⛏ Minecraft 3D Portfolio — Java Edition
+# ⛏ Minecraft 3D Portfolio - Java Edition
 
 A fully interactive **3D Minecraft-style portfolio** built entirely in **Java** using **JavaFX 3D**. Walk around a voxel world, place and break blocks, and discover glowing **info blocks** that reveal portfolio content when interacted with.
 
@@ -8,19 +8,19 @@ A fully interactive **3D Minecraft-style portfolio** built entirely in **Java** 
 
 ## 🎮 Features
 
-- **First-Person Movement** — Walk with WASD, look with mouse, jump with Space
-- **Block Editing** — Left-click to break, right-click to place (10 block types)
-- **Portfolio Info Blocks** — 7 glowing blocks scattered across the world; right-click to view:
-  - 📖 **About Me** — Player profile, education, stats
-  - ⚔️ **Skills** — Programming languages, frameworks, AI/ML, cybersecurity
-  - 🏗️ **Projects** — Hydra Watch, Terra-Sentinel, Prom To, Elderly E-Commerce, AstroCycle
-  - ⭐ **Experience** — NECTEC Research Intern, Microsoft TEALS, Freelance Dev
-  - 🏆 **Awards** — 10+ international & national achievements
-  - 📜 **Certifications** — NUS, Stanford, Cisco, Google, freeCodeCamp
-  - 💌 **Contact** — Email, phone, GitHub, Instagram
-- **3D Voxel World** — Procedurally generated terrain with trees, house, Nether portal, diamond/gold ores, water pond
-- **Fly Mode** — Press F to toggle flying
-- **Gravity & Collision** — Walk on top of blocks with realistic physics
+- **First-Person Movement** - Walk with WASD, look with mouse, jump with Space
+- **Block Editing** - Left-click to break, right-click to place (10 block types)
+- **Portfolio Info Blocks** - 7 glowing blocks scattered across the world; right-click to view:
+  - 📖 **About Me** - Player profile, education, stats
+  - ⚔️ **Skills** - Programming languages, frameworks, AI/ML, cybersecurity
+  - 🏗️ **Projects** - Hydra Watch, Terra-Sentinel, Prom To, Elderly E-Commerce, AstroCycle
+  - ⭐ **Experience** - NECTEC Research Intern, Microsoft TEALS, Freelance Dev
+  - 🏆 **Awards** - 10+ international & national achievements
+  - 📜 **Certifications** - NUS, Stanford, Cisco, Google, freeCodeCamp
+  - 💌 **Contact** - Email, phone, GitHub, Instagram
+- **3D Voxel World** - Procedurally generated terrain with trees, house, Nether portal, diamond/gold ores, water pond
+- **Fly Mode** - Press F to toggle flying
+- **Gravity & Collision** - Walk on top of blocks with realistic physics
 
 ## 🕹️ Controls
 
@@ -43,7 +43,7 @@ A fully interactive **3D Minecraft-style portfolio** built entirely in **Java** 
 
 ### Prerequisites
 - **Java 21+** (tested on Java 26)
-- **JavaFX SDK 21.0.2** — [Download here](https://gluonhq.com/products/javafx/)
+- **JavaFX SDK 21.0.2** - [Download here](https://gluonhq.com/products/javafx/)
 
 ### Quick Start
 1. Clone this repo
