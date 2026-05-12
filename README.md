@@ -74,7 +74,7 @@ src/main/java/com/portfolio/minecraft/
 - **Graphics:** JavaFX 3D (PerspectiveCamera, PhongMaterial, Box)
 - **Textures:** Procedurally generated pixel art via `WritableImage`
 - **Physics:** Custom gravity, collision detection, ground snapping
-- **Architecture:** MVC — World (model), Camera/Input (controller), PortfolioUI (view)
+- **Architecture:** MVC - World (model), Camera/Input (controller), PortfolioUI (view)
 
 ## 👩‍💻 About the Developer
 
