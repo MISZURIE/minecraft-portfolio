@@ -78,8 +78,8 @@ src/main/java/com/portfolio/minecraft/
 
 ## 👩‍💻 About the Developer
 
-**Ploychomphoo Kathinthet** — Freshman IT student at KMUTT with 3+ years of full-stack & AI development experience. Top placements in 10+ international competitions including NASA Space Apps, Conrad Challenge, and JUMP Thailand Hackathon.
+**Ploychomphoo Kathinthet** - Freshman IT student at KMUTT with 3+ years of full-stack & AI development experience. Top placements in 10+ international competitions including NASA Space Apps, Conrad Challenge, and JUMP Thailand Hackathon.
 
 ---
 
-*Built with ❤️ and Java — because real Minecraft runs on Java too* ☕
+*Built with ❤️ and Java - because real Minecraft runs on Java too* ☕
