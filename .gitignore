@@ -1,0 +1,25 @@
+# Java compiled
+out/
+*.class
+
+# JavaFX SDK (large, don't commit)
+javafx-sdk-21.0.2/
+
+# Gradle temp (if any left)
+gradle-dist/
+gradle-dist-14/
+.gradle/
+build/
+*.zip
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
